@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       Trello card colorizer
+// @name       Trello card colorizer 2
 // @namespace  https://github.com/askalee/trello-colorize
 // @version    0.3
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
